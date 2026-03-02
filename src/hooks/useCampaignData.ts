@@ -11,7 +11,7 @@ import {
   CampaignTrend
 } from '@/lib/csvParser';
 
-const CSV_URL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vSuGI6wo91im_joyRexSFuwd5OTEfsRzSAFLuMzzm3ESfqlN22v4QueFJKCEkSZAcUxJf6xOCw2epIk/pub?output=csv';
+const CSV_URL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vTsq4lFdfuVN6i6x9nbaF9NQ1pbHkbhnBCRY8-7NGOYA3HS84GrdG5lWNbpGxeoJ2waCJvZqp4rw01d/pub?output=csv';
 
 export interface DateRange {
   from: Date;
